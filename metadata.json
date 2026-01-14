@@ -1,0 +1,7 @@
+{
+  "name": "Empire Strength & Fitness - Delhi's Premier Training Ground",
+  "description": "A high-performance, high-contrast landing page for Empire Strength, featuring 6000sq yards of imported setup and elite training.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
